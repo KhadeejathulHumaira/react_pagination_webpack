@@ -1,5 +1,5 @@
 # react_pagination_webpack
-# To run 
+# 1.To run 
 ## Use npm run start
-# To Build
+# 2.To Build
 ## Use npm run buid
