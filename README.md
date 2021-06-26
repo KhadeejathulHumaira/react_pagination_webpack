@@ -4,4 +4,4 @@
 # 2.To Build
 ## Use npm run buid
 
-## Website: https://reactpagination.netlify.app/
+## React Pagination(https://reactpagination.netlify.app/)
